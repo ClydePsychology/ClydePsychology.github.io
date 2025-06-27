@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://clydepsychology.com/jincheng.jpg" class="floatpic">
+<img src="https://clydepsychology.github.io/clyde.jpg" class="floatpic">
 
 Here is **Jincheng Wu (Clyde, 吴锦程)**.<br>
 
@@ -27,7 +27,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
 - Children's Temperament and Social Adjustment
 - Adolescents' Stress and School Adjustment
 - Cognition development
