@@ -6,22 +6,27 @@ layout: page
 
 <img src="https://caihanlin.com/caihanlin.jpg" class="floatpic">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.<br>
+Here is **Jincheng Wu (Clyde, 吴锦程)**.<br>
 
-I am a graduate student in the [Internet of Everything Group](https://ioe.eng.cam.ac.uk/) at the University of Cambridge, supervised by [Prof. Ozgur Akan](https://ioe.eng.cam.ac.uk/directory/akan), and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at the [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/).
+I am a graduate student studying in Interdisplinary Studies in Human Development M.S.Ed Program at University of Pennsylvania, supervised by [Prof. Xinyin Chen](https://www.gse.upenn.edu/faculty/xinyin-chen).
 
-Prior to Cambridge, I have worked on wireless networks, cybersecurity, and machine learning under the guidance of [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+My research interests broadly lie in the area of young individual’s socio-emotional development. Particularly, my research focuses on understanding how individual factors (e.g., temperament, resilience, theory of Mind) and environmental factors (e.g., parenting styles, school education, culture) influence the children’s socio-emotional development (e.g., Peer Preference, Emotion Understanding). During my research, I would like to take the perspective of culture and family when it comes to the study of child development. In the future, I would like to research more about the children’s socio-emotional development and the real-world practice (interventions based on my research) will also be carried out.
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **hc663 [at] cam.ac.uk**
+Before my graduate study, I received my B.S. in Applied Psychology at Zhejiang University of Technology (China) under the guidance of [Assoc.Prof. Yulong Tang](https://www.researchgate.net/profile/Yulong-Tang-4) and [Dr. Shuyi Zhai](https://scholar.google.com/citations?hl=zh-CN&user=1U_lN9YAAAAJ). I was also a visiting student at University of California, Berkeley in 2024 Spring.
+
+During my undergraduate studies, I was a research assistant at Zhou Family & Culture Lab in UC berkeley and Life-span Development Laboratory in Stanford University.
+
+If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **clydewu [at] upenn.edu**
 
 ---
 
 ## Research Interests
 
 - [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Wireless Communication
-- Semantic Communication
-- LLM for Networking
+- Children's Temperament and Social Adjustment
+- Adolescents' Stress and School Adjustment
+- Cognition development
+- LLM for Developmental Psychology
 
 ---
 
