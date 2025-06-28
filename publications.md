@@ -8,14 +8,13 @@ title: Publications
 
 ## Journal Paper [In Preparation]
 
--I have 2 Journal Paper in preparation and hope they will come out soon!
+I have a Journal Paper focusing on **shyness and peer preference** in preparation and hope they will come out soon!
 
 ## Conference Presentation
 
-- [The effect of emotional regulation self-efficacy on working memory of college students](https://clydepsychology.github.io/mypaper/poster/JinchengWu_SUREP_Poster.pdf)<br>**Jincheng Wu**, Jiayan Pan~<br>Poster presented at the Summer Undergraduate Research Education Program Conference, University of Georgia, Live Virtual Presentation (June, 2025).
+- **Jincheng Wu**, Jiayan Pan (June, 2024).[The effect of emotional regulation self-efficacy on working memory of college students](https://clydepsychology.github.io/mypaper/poster/JinchengWu_SUREP_Poster.pdf).Poster presented at the Summer Undergraduate Research Education Program Conference, University of Georgia, Live Virtual Presentation.
 
-- I have 2 Conference Posters under review or in preparation, hope they will come out soon!
-
+I have 2 Conference Posters under review and in preparation respectively, hope they will come out soon!
 
 ## Degree Thesis [In Preparation]
 
