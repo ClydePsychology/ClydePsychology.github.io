@@ -31,27 +31,27 @@ title: berkeleyexchange
 <br>课后的office hour和discussion制度很好地帮助我们巩固课堂上的内容，也给学生提供了与教授面对面交流想法的机会。伯克利的课程还往往会配备课程助教（TA）或研究生助教（GSI），由学校的博士生或者硕士生担任，负责课程答疑、作业批改等，我们也可以通过与助教交流了解更多关于课程以及学科的内容。 
 
 <center>
-<img src="/blogs/berkeleyexchange/leadershipandsocialchange.jpg">
+<img src="/blogs/berkeleyexchange.assets/leadershipandsocialchange.jpg">
 </center>
 图1:《社会变革与领导力》课程现场
 <center>
-<img src="/blogs/berkeleyexchange/positivepsychology.jpg">
+<img src="/blogs/berkeleyexchange.assets/positivepsychology.jpg">
 </center>
 图2:《积极心理学神经机制》课程现场
 <center>
-<img src="/blogs/berkeleyexchange/neuroethology.jpg">
+<img src="/blogs/berkeleyexchange.assets/neuroethology.jpg">
 </center>
 图3:与《神经行为学》授课教授 Frederic Theunissen合影
 
 学术交流方面，校内外都有着丰富的资源。3月，我参加了认知发展协会（CDS）在美国帕萨迪纳举办的认知发展大会，我的本科导师Assoc.Prof. Yulong Tang也来到了会议进行了学术海报的交流。会议主要围绕认知发展相关的心理学研究，开设了众多研讨会以及学术交流，极大地拓宽了我的视野。除此之外，伯克利的心理系和人类发展研究所也不定期开展了心理学相关的学术座谈会和研讨会，会邀请学术界内极具影响力的学者分享研究成果。 
 
 <center>
-<img src="/blogs/berkeleyexchange/CDS.jpg">
+<img src="/blogs/berkeleyexchange.assets/CDS.jpg">
 </center>
 图4:CDS会议现场
 
 <center>
-<img src="/blogs/berkeleyexchange/berkeleyconference.jpg">
+<img src="/blogs/berkeleyexchange.assets/berkeleyconference.jpg">
 </center>
 图5:加州伯克利心理学系儿童发展教育学术会议
 
@@ -70,12 +70,12 @@ title: berkeleyexchange
 搭乘地铁或公交车可以选择来到旧金山和奥克兰的Chinatown，那里有更加地道的中国美食，商店里也可以买到普通超市里买不到的中国食材。 
 
 <center>
-<img src="/blogs/berkeleyexchange/sfchinatown.jpg">
+<img src="/blogs/berkeleyexchange.assets/sfchinatown.jpg">
 </center>
 图6:旧金山唐人街
 
 <center>
-<img src="/blogs/berkeleyexchange/sfdimsum.jpg">
+<img src="/blogs/berkeleyexchange.assets/sfdimsum.jpg">
 </center>
 图6:旧金山唐人街的一家港式点心店
 
@@ -89,22 +89,22 @@ title: berkeleyexchange
 我在交换期间参与了学校自闭症志愿者社团“Fight For Autism”，经过培训以及注册后成为一名志愿者，在伯克利市公立学校内展开自闭症儿童志愿服务活动，负责协助自闭症儿童进行课堂学习以及绘本阅读，这段经历让我对美国公立教育系统以及特殊教育支持系统有了更加深刻的认识。
 
 <center>
-<img src="/blogs/berkeleyexchange/berkeleymarina.jpg">
+<img src="/blogs/berkeleyexchange.assets/berkeleymarina.jpg">
 </center>
 图7:Berkeley Marina
 
 <center>
-<img src="/blogs/berkeleyexchange/berkeleyhiking.jpg">
+<img src="/blogs/berkeleyexchange.assets/berkeleyhiking.jpg">
 </center>
 图8:参加Meditation Hiking
 
 <center>
-<img src="/blogs/berkeleyexchange/berkeleybasketballgame.jpg">
+<img src="/blogs/berkeleyexchange.assets/berkeleybasketballgame.jpg">
 </center>
 图9:学期初的篮球赛（伯克利VS斯坦福）
 
 <center>
-<img src="/blogs/berkeleyexchange/volunteer.jpg">
+<img src="/blogs/berkeleyexchange.assets/volunteer.jpg">
 </center>
 图10:参与自闭症志愿者活动
 
@@ -115,12 +115,12 @@ title: berkeleyexchange
 加州还特别适合自驾游，周末或者放假的时候可以和好友租车驾驶在一号公路上欣赏西海岸美景，感受阳光、沙滩和自由。
 
 <center>
-<img src="/blogs/berkeleyexchange/goldengate.jpg">
+<img src="/blogs/berkeleyexchange.assets/goldengate.jpg">
 </center>
 图11:旧金山金门大桥
 
 <center>
-<img src="/blogs/berkeleyexchange/highway1.jpg">
+<img src="/blogs/berkeleyexchange.assets/highway1.jpg">
 </center>
 图12:一号公路自驾
 
