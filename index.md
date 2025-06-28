@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jincheng Wu (Clyd Wu)**.<br>
 
-I am a graduate student studying in Interdisplinary Studies in Human Development M.S.Ed Program at University of Pennsylvania, supervised by [Prof. Xinyin Chen](https://www.gse.upenn.edu/faculty/xinyin-chen).
+I am a graduate student studying in [Interdisplinary Studies in Human Development M.S.Ed Program](https://www.gse.upenn.edu/academics/interdisciplinary-studies-human-development-msed) at University of Pennsylvania. My program focus on examining the social, emotional, cognitive, and physical aspects of human development within the context of culture and social policy.
 
 My research interests broadly lie in the area of young individual’s socio-emotional development. Particularly, my research focuses on understanding how individual factors (e.g., temperament, resilience, theory of Mind)
  and environmental factors (e.g., parenting styles, school education, culture) influence the children’s socio-emotional development (e.g., Peer Preference, Emotion Understanding). 
@@ -27,8 +27,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## Research Interests
 
-- Children's Temperament and Social Adjustment
-- Adolescents' Stress and School Adjustment
+- Children and Adolescents' Temperament and Social Adjustment
+- School Psychology and Family Education
 - Cognition development
 - LLM for Developmental Psychology
 
@@ -36,8 +36,9 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 ## News and Updates
 
-- **June 2025**：Delighted to accounce that I was graduated from Zhejiang University of Technology with a B.S. in Applied Psychology
+- **June 2025**：Delighted to accounce that I was graduated from Zhejiang University of Technology with a B.S. in Applied Psychology. I would like to thank my family, professors and friends who have supported me all the way.
 - **March 2025：**Happy to receive a M.S.Ed offer from Gradutae School of Education, University of Pennsylvania!
+- **July 2024**：Very Delighted to join [Life-span Development Laboratory](https://lifespan.stanford.edu/) as a research assistant at Stanford University
 - **April 2024**：Very Delighted to join [Zhou Family & Culture Lab](https://zhoulab.berkeley.edu/) as a undergraduate research assistant at University of California, Berkely
 - **Jan 2024**：Very excited to be selected as a exchange student to study in University of California, Berkely with Outstanding Undergraduate Studen Study Aboard Scholarship ($12000). GO BEARS!!!
 
