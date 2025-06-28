@@ -6,9 +6,7 @@ title: Hobbies
 
 # Hobbies
 
-I love Music/ Work Out/ Hiking
-
-If you’re also in Upenn and interested in doing those activies together, feel free to contact me!
+I love Music/ Work Out/ Hiking. <br> If you’re also in Upenn and interested in doing those activies together, feel free to contact me!
 
 ## Music
 <div class="third">
