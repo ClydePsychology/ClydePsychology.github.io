@@ -8,7 +8,7 @@ layout: page
 
 Here is **Jincheng Wu (Clyde Wu)**.<br>
 
-I am a graduate student studying in [**Interdisplinary Studies in Human Development M.S.Ed Program**](https://www.gse.upenn.edu/academics/interdisciplinary-studies-human-development-msed) at University of Pennsylvania. My program focus on examining the social, emotional, cognitive, and physical aspects of human development within the context of culture and social policy.
+I am a graduate student studying in [**Interdisplinary Studies in Human Development M.S.Ed Program**](https://www.gse.upenn.edu/academics/interdisciplinary-studies-human-development-msed) at University of Pennsylvania under the supervision by [Prof. Xinyin Chen](https://www.gse.upenn.edu/faculty/xinyin-chen). My program focus on examining the social, emotional, cognitive, and physical aspects of human development within the context of culture and social policy.
 
 My research interests broadly lie in the area of young individual’s **socio-emotional development**. Particularly, my research focuses on understanding how **individual factors** (e.g., temperament, resilience, theory of Mind)
  and **environmental factors** (e.g., parenting styles, school education, culture) influence the children’s socio-emotional development (e.g., Peer Preference, Emotion Understanding). 

@@ -4,14 +4,15 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 28th June 2025
+> Update: 6th August 2025
 
 ## Scholarships
 
-- Oct 2022: **Zhejiang Provincial Government Scholarship** (¥ 6000) (Ranked first among in the College when selected)
+- July 2025: **Suzanne McGraw Scholarship**($4200)
 - Oct 2024: Individual Scholarship of Social Work (¥500)
 - Oct 2023: The Second Prize Scholarship for Outstanding Student (¥2500)
 - Oct 2023: Individual Scholarship of Social Work (¥500)
+- Oct 2022: **Zhejiang Provincial Government Scholarship** (¥ 6000) (Ranked first among in the College when selected)
 - Oct 2022: **The First Prize Scholarship for Outstanding Student**  (¥5000) (Only Top 5% Students are selected)
 
 ## Grants and Graduate Assistanceships
