@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: mypaper/links/NASP26/index.html
+permalink: /mypaper/links/nasp26/index.html
 title: NASP26
 ---
 Thank you so much for paying attention to our research! 
