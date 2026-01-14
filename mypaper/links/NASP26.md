@@ -11,6 +11,7 @@ Wu, J., Deng, S., Yang, C-C. (Feb, 2026) How Chinese American Adolescents Naviga
 
 ## Useful Links
 
+
 -[NASP Website Poster Information](https://apps.nasponline.org/professional-development/convention/session-detail.aspx?id=34778)
 
 -[Poster Copy](https://clydepsychology.github.io/mypaper/poster/nasp26_Poster.pdf)
@@ -20,6 +21,7 @@ Wu, J., Deng, S., Yang, C-C. (Feb, 2026) How Chinese American Adolescents Naviga
 -[OSF Project of CAASSP (Chinese American Adolescents Sleep and Stress Project)](https://osf.io/jsdzc/overview)
 
 ## About Authors
+
 -[Jincheng Wu](https://orcid.org/0009-0000-1139-3813), Graduate School of Education, University of Pennsylvania
 
 -[Shuyi Deng](), Faculty of Psychology, Beijing Normal University
