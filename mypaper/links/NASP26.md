@@ -11,6 +11,8 @@ Wu, J., Deng, S., Yang, C-C. (Feb, 2026) How Chinese American Adolescents Naviga
 
 ## Useful Links
 
+-[NASP Website Poster Information](https://apps.nasponline.org/professional-development/convention/session-detail.aspx?id=34778)
+
 -[Poster Copy](https://docs.google.com/presentation/d/12PiLeyYSwhJ4x_eLHdOrdrZKz3UEmQUz/edit?usp=sharing&ouid=118235256467624553862&rtpof=true&sd=true)
 
 -[Poster References](https://docs.google.com/document/d/1UDuCblYmf5nkqB6UHoX-kb5LyElMHTj0_yPs2FjFs58/edit?usp=sharing)
