@@ -12,14 +12,14 @@ Wu, J., Deng, S., Yang, C-C. (Feb, 2026) How Chinese American Adolescents Naviga
 ## Useful Links
 
 
--[NASP Website Poster Information](https://apps.nasponline.org/professional-development/convention/session-detail.aspx?id=34778)
--[Poster Copy](https://clydepsychology.github.io/mypaper/poster/nasp26_Poster.pdf)
--[Poster References](https://docs.google.com/document/d/1UDuCblYmf5nkqB6UHoX-kb5LyElMHTj0_yPs2FjFs58/edit?usp=sharing)
+-[NASP Website Poster Information](https://apps.nasponline.org/professional-development/convention/session-detail.aspx?id=34778)<br>
+-[Poster Copy](https://clydepsychology.github.io/mypaper/poster/nasp26_Poster.pdf)<br>
+-[Poster References](https://docs.google.com/document/d/1UDuCblYmf5nkqB6UHoX-kb5LyElMHTj0_yPs2FjFs58/edit?usp=sharing)<br>
 -[OSF Project of CAASSP (Chinese American Adolescents Sleep and Stress Project)](https://osf.io/jsdzc/overview)
 
 ## About Authors
 
--[Jincheng Wu](https://orcid.org/0009-0000-1139-3813), Graduate School of Education, University of Pennsylvania
--[Shuyi Deng](), Faculty of Psychology, Beijing Normal University
+-[Jincheng Wu](https://orcid.org/0009-0000-1139-3813), Graduate School of Education, University of Pennsylvania <br>
+-[Shuyi Deng](), Faculty of Psychology, Beijing Normal University <br>
 -[Chun-Chi Yang](https://orcid.org/0000-0002-5399-5908), Berkeley School of Education, University of California, Berkeley
 
