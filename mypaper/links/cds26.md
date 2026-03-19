@@ -12,7 +12,7 @@ Wu, J., Tang, Y. (April, 2026). Understanding Children’s Gossip from Daily Tal
 ## Useful Links
 
 -[Conference Website](https://cogdevsoc.org/destination/)<br>
--[Poster Copy](https://clydepsychology.github.io/mypaper/poster/cds_Poster.pdf)<br>
+-[Poster Copy](https://clydepsychology.github.io/mypaper/poster/cds26_Poster.pdf)<br>
 
 ## About Authors
 
