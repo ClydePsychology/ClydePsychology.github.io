@@ -20,7 +20,7 @@ Before my graduate study, I received my B.S. in Applied Psychology at Zhejiang U
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **clydewu [at] upenn.edu**
 
-# I'm currently looking for PhD position in *School Psychology/Developmental Psychology/HDFS* for Fall2027 Admission cycle. Please feel free to reach out to me.
+## I'm currently looking for PhD position in *School Psychology/Developmental Psychology/HDFS* for Fall2027 Admission cycle. Please feel free to reach out to me.
 ---
 
 ## Research Interests
