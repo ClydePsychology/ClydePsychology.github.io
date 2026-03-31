@@ -20,6 +20,7 @@ Before my graduate study, I received my B.S. in Applied Psychology at Zhejiang U
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at — **clydewu [at] upenn.edu**
 
+# I'm currently looking for PhD position in *School Psychology/Developmental Psychology/HDFS* for Fall2027 Admission cycle. Please feel free to reach out to me.
 ---
 
 ## Research Interests
@@ -34,11 +35,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 ## News and Updates
 - **Feb 2026**: Very thilled to accounce that one of my research poster, *Low Preference for Shy Peers in China: Increasing Context Sensitivity from Preschool to Adolescence*, is accepted by the 28th Biennial Meeting of the International Society for the Study of Behavioural Development (ISSBD). See you in Incheon!!!
 - **Feb 2026**: Very thilled to accounce that one of my research poster, *UNDERSTANDING CHILDREN’S GOSSIP FROM DAILY TALK USING AN LLM-ASSISTED FRAMEWORK*, is accepted by the 2026 Cognitive Development Society Meeting . See you in Montréal!!!
-- **Nove 2025**: Very thilled to accounce that one of my research poster, *How Chinese American Adolescents Navigate Academic Stress and Peer Relationships*, is accepted by the 2026 National Association of School Psychologists (NASP). See you in Chicago!!!!
+- **Nov 2025**: Very thilled to accounce that one of my research poster, *How Chinese American Adolescents Navigate Academic Stress and Peer Relationships*, is accepted by the 2026 National Association of School Psychologists (NASP). See you in Chicago!!!!
 - **Nov 2025**: Very grateful to have the the opportunity to present my research at [the 25th Occasional Temperament Conference (OTC)](https://otc.education.tamu.edu/)
-- **June 2025**：Delighted to accounce that I was graduated from Zhejiang University of Technology with a B.S. in Applied Psychology. I would like to thank my family, professors and friends who have supported me all the way.
-- **March 2025**:Happy to receive a M.S.Ed offer from Gradutae School of Education, University of Pennsylvania!
-- **July 2024**：Very Delighted to join [Life-span Development Laboratory](https://lifespan.stanford.edu/) as a research assistant at Stanford University
-- **April 2024**：Very Delighted to join [Zhou Family & Culture Lab](https://zhoulab.berkeley.edu/) as a undergraduate research assistant at University of California, Berkely
+- **Jun 2025**：Delighted to accounce that I was graduated from Zhejiang University of Technology with a B.S. in Applied Psychology. I would like to thank my family, professors and friends who have supported me all the way.
+- **Mar 2025**:Happy to receive a M.S.Ed offer from Gradutae School of Education, University of Pennsylvania!
+- **Jul 2024**：Very Delighted to join [Life-span Development Laboratory](https://lifespan.stanford.edu/) as a research assistant at Stanford University
+- **Apr 2024**：Very Delighted to join [Zhou Family & Culture Lab](https://zhoulab.berkeley.edu/) as a undergraduate research assistant at University of California, Berkely
 - **Jan 2024**：Very excited to be selected as a exchange student to study in University of California, Berkely with Outstanding Undergraduate Studen Study Aboard Scholarship ($12000). GO BEARS!!!
 
