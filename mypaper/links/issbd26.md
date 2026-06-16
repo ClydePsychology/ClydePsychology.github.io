@@ -6,12 +6,13 @@ title: issbd26
 Thank you so much for paying attention to our research! 
 
 
-<div class="third">
-<img src="/images/ISSBDPosterTitle.jpg" style="display:block; margin:0 auto;">
+
+
+## [Click Here To Download the Poster Copy](https://clydepsychology.github.io/mypaper/poster/issbd26_Poster.pdf)<br>
+
+<div style="text-align:center;">
+<img src="/images/ISSBDPosterTitle.jpg" style="display:block; width:100%; max-width:1100px; height:auto; margin:0 auto;">
 </div>
-
-# [Click Here To Download the Poster Copy](https://clydepsychology.github.io/mypaper/poster/issbd26_Poster.pdf)<br>
-
 
 ## Poster Information
 
@@ -20,9 +21,9 @@ Wu, J., Chen, Y., Zhai, S. (Jun, 2026). Low Preference for Shy Peers in China: I
 ## About The Conference
 
 -[Conference Website](https://2026biennial.issbd.org/)<br>
-
-<div class="third">
-<img src="/images/ISSBDlogo.jpg" style="display:block; margin:0 auto;"> 
+-[Conference Program](https://2026biennial.issbd.org/scientific-program/)<br>
+<div style="text-align:center;">
+<img src="/images/ISSBDlogo.jpg" style="display:inline-block; max-width:100%; height:auto;">
 </div>
 
 ## About Authors
