@@ -5,14 +5,15 @@ title: issbd26
 ---
 Thank you so much for paying attention to our research! 
 
-
-
-
-## [Click Here To Download the Poster Copy](https://clydepsychology.github.io/mypaper/poster/issbd26_Poster.pdf)<br>
-
 <div style="text-align:center;">
-<img src="/images/ISSBDPosterTitle.jpg" style="display:block; width:100%; max-width:1100px; height:auto; margin:0 auto;">
+	<a href="https://clydepsychology.github.io/mypaper/poster/issbd26_Poster.pdf" target="_blank" rel="noopener">
+		<img src="/images/ISSBDPosterTitle.jpg" style="display:block; width:100%; max-width:1100px; height:auto; margin:0 auto;">
+	</a>
 </div>
+
+ ## [Download the Poster Copy](https://clydepsychology.github.io/mypaper/poster/issbd26_Poster.pdf)<br>
+-[Poster Copy_Low Preference for Shy Peers in China: Increasing Context Sensitivity from Preschool to Adolescence](https://clydepsychology.github.io/mypaper/poster/issbd26_Poster.pdf)
+<br>
 
 ## Poster Information
 
