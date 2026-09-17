@@ -1,28 +1,38 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: Publications
+title: Manuscripts and Presentations
 ---
 
->Updated: 19th March 2026
+*Last updated: September 17, 2026*
 
-## Journal Paper 
+## Manuscripts
 
-I have a Journal Paper focusing on **Temperamental Shyness and Peer Preference** under review and and a manuscript focusing on **Adolescent Stress and Peer Relationshp** in preparation and they will come out soon!
+If you are interested in learning more about our work, please feel free to contact me at **clydewu [at] upenn.edu**.
+
+### Under Review
+
+I have a manuscript on shyness and peer preference under review. A second manuscript examining children’s gossip using an LLM-assisted program is also under review.
+
+### In Preparation
+
+I am preparing a manuscript on a cross-age study of shyness and peer preference. I am also preparing a mixed-methods manuscript on Chinese American adolescents’ stress and support during the college application season, as well as a manuscript on a school-based intervention.
 
 ## Conference Presentations
 
-#Paper Presentation
-- **Wu, J.**, Zhai, S. (Nov, 2025). Generalized but Not Fixed: Chinese Children’s Preference for Unshy Peers. Symposium presentation presented at the 25th Occasional Temperament Conference (OTC), College Station, US.
+### Paper and Symposium Presentations
 
-#Poster Presentation
-- **Wu, J.**, Chen, Y., Zhai, S. (Jun, 2026). [Low Preference for Shy Peers in China: Increasing Context Sensitivity from Preschool to Adolescence](https://clydepsychology.github.io/mypaper/links/issbd26/index.html), Poster to be presented at the 28th Biennial Meeting of the International Society for the Study of Behavioural Development (ISSBD), Incheon, South Korea. <br/>
-- **Wu, J.**, Tang, Y. (April, 2026). [Understanding Children’s Gossip from Daily Talk Using an LLM-assisted Framework](https://clydepsychology.github.io/mypaper/links/cds26/index.html), Poster to be presented at the 2026 Cognitive Development Society Meeting, Montréal, Canada. <br/>
-- **Wu, J.**, Deng, S., Yang, C-C. (Feb, 2026) [How Chinese American Adolescents Navigate Academic Stress and Peer Relationships](https://clydepsychology.github.io/mypaper/links/nasp26/index.html), Poster presented at the 2026 National Association of School Psychologists (NASP) Convention, Chicago, US. <br/>
-- **Wu, J.**, Pan, J. (June, 2024).[The effect of emotional regulation self-efficacy on working memory of college students](https://clydepsychology.github.io/mypaper/poster/JinchengWu_SUREP_Poster.pdf).Poster presented at the Summer Undergraduate Research Education Program Conference, University of Georgia, Live Virtual Presentation. <br/>
+- **Wu, J.**, Chen, Y., & Zhai, S. (2026, September). *Adaptation risks of shy adolescents: The moderating role of friendship relationship patterns* [Symposium presentation]. Academic Annual Conference of the Personality Psychology Professional Committee of the Chinese Psychological Society, Xi’an, China.
+- **Wu, J.**, Deng, S., & Yang, C.-C. (2026, May). *How Chinese American adolescents navigate academic stress and peer relationships: A mixed-methods longitudinal study* [Paper presentation]. Supporting Dual Language Learners and Children of Immigrant Families Annual Research Conference, Berkeley, CA, United States.
+- **Wu, J.**, & Zhai, S. (2025, November). *Generalized but not fixed: Chinese children’s preference for unshy peers* [Symposium presentation]. 25th Occasional Temperament Conference, College Station, TX, United States.
 
-## Degree Thesis
+### Poster Presentations
 
-- June, 2025: Undergraduate Thesis: The Characteristics and Development of Children’s Gossip: A Study Based on Large Language Models (Advisor: Yulong Tang)
+- **Wu, J.**, Chen, Y., & Zhai, S. (2026, June). *[Low preference for shy peers in China: Increasing context sensitivity from preschool to adolescence](https://clydepsychology.github.io/mypaper/links/issbd26/index.html)* [Poster presentation]. 28th Biennial Meeting of the International Society for the Study of Behavioural Development (ISSBD), Incheon, South Korea.
+- **Wu, J.**, & Tang, Y. (2026, April). *[Understanding children’s gossip from daily talk using an LLM-assisted framework](https://clydepsychology.github.io/mypaper/links/cds26/index.html)* [Poster presentation]. Cognitive Development Society (CDS) Meeting, Montréal, Canada.
+- **Wu, J.**, Deng, S., & Yang, C.-C. (2026, February). *[How Chinese American adolescents navigate academic stress and peer relationships](https://clydepsychology.github.io/mypaper/links/nasp26/index.html)* [Poster presentation]. National Association of School Psychologists (NASP) Convention, Chicago, IL, United States.
+- **Wu, J.**, & Pan, J. (2024, June). *[The effect of emotional regulation self-efficacy on the working memory of college students](https://clydepsychology.github.io/mypaper/poster/JinchengWu_SUREP_Poster.pdf)* [Poster presentation]. Summer Undergraduate Research Education Program Conference, University of Georgia, online.
 
-<br>
+## Undergraduate Thesis
+
+- **Wu, J.** (2025). *The characteristics and development of children’s gossip: A study based on large language models* [Undergraduate thesis, Zhejiang University of Technology]. Advisor: Yulong Tang.

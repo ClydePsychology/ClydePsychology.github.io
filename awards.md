@@ -1,32 +1,28 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: Honors, Awards, and Funding
 ---
 
-> Update: 6th August 2025
+*Last updated: September 17, 2026*
 
 ## Scholarships
 
-- July 2025: **Suzanne McGraw Scholarship**($4200)
-- Oct 2024: Individual Scholarship of Social Work (¥500)
-- Oct 2023: The Second Prize Scholarship for Outstanding Student (¥2500)
-- Oct 2023: Individual Scholarship of Social Work (¥500)
-- Oct 2022: **Zhejiang Provincial Government Scholarship** (¥ 6000) (Ranked first among in the College when selected)
-- Oct 2022: **The First Prize Scholarship for Outstanding Student**  (¥5000) (Only Top 5% Students are selected)
+- **2026:** Teaching Assistantship, Graduate School of Education, University of Pennsylvania ($3,136)
+- **2025:** Graduate Assistantship, Graduate School of Education, University of Pennsylvania ($7,700)
+- **2025:** Suzanne McGraw Scholarship, University of Pennsylvania ($4,200)
+- **2023:** Second Prize Scholarship for Outstanding Students, Zhejiang University of Technology (top 10%; RMB 2,500)
+- **2022:** Zhejiang Provincial Government Scholarship, Zhejiang Provincial Department of Education (top 5%; RMB 6,000)
+- **2022:** First Prize Scholarship for Outstanding Students, Zhejiang University of Technology (top 5%; RMB 5,000)
 
-## Grants and Graduate Assistanceships
+## Travel and Study Abroad Funding
 
-- June 2025: **Graduate Assistanceship at Penn GSE**
-- Jan  2024: **Outstanding student Study Aboard Grants** ($12000)
-- Sept 2024: University Unergraduate Innovation Research Grants (¥400)
-- Sept 2023: University Unergraduate Innovation Research Grants (¥400)
+- **2026:** GSE Student Government Travel Scholarships, University of Pennsylvania ($400, Spring)
+- **2026:** Professional Student Travel Grant, University of Pennsylvania ($480, Summer)
+- **2026:** Professional Student Travel Grant, University of Pennsylvania ($600, Spring)
+- **2024:** Outstanding Student Study Abroad Grant, Zhejiang University of Technology ($12,000)
 
 ## Honors and Awards
 
- - June 2025: **Outsanding Graduate** of Zhejiang University of Technology
- - Dec  2023: Outstanding University Volunteer in 19th Asian Games
- - July 2023: Outstanding Project Member in Summer Research Program, Maxer Institute at Cambridge Colleges (Top 20% Research Program Member)
- - Dec  2022: University Outstanding Student
-
-<br>
+- **2025:** Outstanding Graduate, Zhejiang University of Technology
+- **2023:** Outstanding Project Member, Summer Research Program, Maxer Institute at Cambridge Colleges (top 20%)
